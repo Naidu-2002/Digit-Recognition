@@ -95,5 +95,3 @@ The digit recognition system has shown promising results, but there are several 
 ## Contributors
 
 - **Naidu-2002** - Project Lead and Developer  
-
-Contributions to this project are welcome! Feel free to fork the repository and submit pull requests. For any questions or suggestions, please contact the contributor through the GitHub repository.
